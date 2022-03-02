@@ -1,0 +1,9 @@
+Feature:Facebook application
+
+
+Scenario:Face book log in sceanrio
+Given open the browser
+When enter the url
+When enter the username
+when enter the password
+Then click on the button
